@@ -8,6 +8,5 @@ void testGetTriangleType() {
 int main() {
     assert(addNumber(5, 2) == 7);
     testGetTriangleType();
-    printf("ding bo wei may ji ji");
     return 0;
 }
