@@ -9,8 +9,6 @@ int main() {
     printf("5 + 2 = %d\n", addNumber(5, 2));
     printf("5 - 2 = %d\n", minusNumber(5, 2));
     printf("%d\n", getTriangleType(3, 4, 5));
-    printf("bo wei no jinjin only %dcm\n", jinjin(5,2));
-    gay();
     return 0;
 }
 #endif // TEST
